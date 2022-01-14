@@ -1,2 +1,3 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Criação do Primeiro Repositório GitHub - DIO 
+# Projeto Primeiro Repositório GitHub
+
+Colocando Em Pratica todo o aprendizado no curso De Introdução ao Git e Ao GitHub
